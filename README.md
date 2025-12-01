@@ -1,4 +1,4 @@
-# HARRY HOUDINI â€” Interactive Water Shader Sketch
+# HARRY HOUDINI - Interactive Water Shader Sketch
 
 **Interactive digital art piece exploring motion, gravity simulation, and shader-driven visual storytelling.**
 
@@ -7,7 +7,7 @@ The full development repository remains private; this repo contains curated asse
 
 ---
 
-## đźŽ¨ Project Overview
+## 🎨 Project Overview
 
 *Harry Houdini* is an interactive art sketch where the viewer influences the behavior of a simulated water surface.
 
